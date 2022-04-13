@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joel
+- 👋 Hi, I’m Joel, an Information Technology undergrad at Southeastern Louisiana University
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently learning more about network security and web applications 
 - 📫 You can reach me via my email: joelwhite83@gmail.com
